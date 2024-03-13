@@ -1,0 +1,238 @@
+.principal{
+    background-color: rgb(212, 140, 31);
+    width: 100%;
+    height: auto;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.caja1{
+    background-color: rgb(4, 11, 9);
+    width: 90%;
+    height:680px ;
+    position: relative;
+    top: 20px;
+    left: 12px;
+    max-width: 350px;
+
+}
+
+@media screen and (max-width: 480px) {
+    .caja1 {
+        width: 48%;
+    }
+}
+.cajita1{
+    background-color: brown;
+    width: 165px;
+    height:289px ;
+    position: relative;
+    top: 25px;
+    left: 13px;
+}
+
+.cajita11{
+    background-color: rgb(249, 30, 30);
+    width: 165px;
+    height:289px;
+    position: relative;
+    left: 10px;
+    top: 67px;
+}
+
+.cajita111{
+    background-color: rgb(87, 221, 38);
+    width: 165px;
+    height:289px;
+    position: relative;
+    top: -553px;
+    left: 173px;
+}
+.cajita1111{
+    background-color: rgb(38, 181, 221);
+    width: 165px;
+    height:289px;
+    position: relative;
+    left: 177px;
+    top: -510px;
+  
+}
+
+.caja2{
+    background-color: rgb(88, 226, 187);
+    width: 90%;
+    height:680px ;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    max-width: 350px;
+    float: left;
+
+}
+
+@media screen and (max-width: 480px) {
+    .caja2 {
+        width: 48%;
+    }
+}
+.cajita22{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: 24px;
+    left: 20px;
+
+
+}
+
+.cajita222{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -174px;
+    left: 130px;
+
+
+}
+.cajita2222{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -375px;
+    left: 240px;
+
+
+}
+.cajita214{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top:-354px;
+    left: 20px;
+
+
+}
+.cajita215{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -554px;
+    left: 130px;
+
+
+}
+
+.cajita216{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -754px;
+    left: 242px;
+
+
+}
+.cajita217{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -733px;
+    left: 20px;
+
+
+}
+.cajita218{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -932px;
+    left: 130px;
+
+
+}
+.cajita219{
+    background-color: azure;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    top: -1130px;
+    left: 240px;
+
+
+}
+
+.caja3{
+    background-color: rgb(143, 23, 89);
+    width: 90%;
+    height:680px ;
+    position: relative;
+    top: 20px;
+    left: 30px;
+    max-width: 350px;
+}
+
+@media screen and (max-width: 480px) {
+    .caja3 {
+        width: 48%;
+    }
+}
+
+.cajita33{
+    background-color: chocolate;
+    width: 310px;
+    height: 80px;
+    position: relative;
+    top: 24px;
+    left: 20px;
+}
+.cajita333{
+    background-color: chocolate;
+    width: 140px;
+    height: 200px;
+    position: relative;
+    top: 54px;
+    left: 20px;
+}
+.cajita3333{
+    background-color: chocolate;
+    width: 140px;
+    height: 200px;
+    position: relative;
+    top: -144px;
+    left: 190px;
+}
+
+.cajita314{
+    background-color: chocolate;
+    width: 310px;
+    height:88px;
+    position: relative;
+    top: -121px;
+    left: 20px;
+}
+
+.cajita315{
+    background-color: chocolate;
+    width: 140px;
+    height: 200px;
+    position: relative;
+    top: -104px;
+    left: 20px;
+}
+.cajita316{
+    background-color: chocolate;
+    width: 140px;
+    height: 200px;
+    position: relative;
+    top: -304px;
+    left: 190px;
+}
